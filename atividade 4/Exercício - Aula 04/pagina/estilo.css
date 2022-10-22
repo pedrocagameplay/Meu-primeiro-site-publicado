@@ -1,0 +1,38 @@
+
+
+#cabeçalho{
+    background-color: #21022d;
+    color: white;
+    text-align: center;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+#corpo{
+    background-color: #e2d8e7;
+    color: #21022d
+}
+.vitamina{
+    width: 150px;
+    height: 150px;
+}
+#imagem{
+    width: 600px ;
+    height: 300px;
+}
+#corpo{
+    padding-left: 16px;
+    padding-top: 16px;
+}
+#vitaminas{
+    padding-left: 64px;
+    padding-top: 32px ;
+}
+#lactose{
+    background-color: #e2d8e7;
+    text-align: center;
+}
+#final{
+    color: white;
+    background-color: #21022d;
+    text-align: center;
+}
